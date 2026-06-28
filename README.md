@@ -18,6 +18,18 @@
 
 ---
 
+### 🤝 I can help you with:
+
+- Landing pages
+- Responsive website layouts
+- Figma to HTML/CSS/React
+- Small web applications
+- Admin panels and dashboards
+- UI improvements and bug fixes
+- Ready to adapt to your project’s needs and learn new tools if needed
+
+---
+
 ### 🧰 Tech Stack
 
 <p align="center">
