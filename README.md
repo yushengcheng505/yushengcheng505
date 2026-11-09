@@ -42,6 +42,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-16a34a?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-22c55e?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-16a34a?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-16a34a?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-15803d?style=for-the-badge&logo=cshrp&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-166534?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-16a34a?style=for-the-badge&logo=dart&logoColor=white" />
