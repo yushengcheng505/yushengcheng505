@@ -17,6 +17,7 @@
 ### 🌿 About Me
 
 * I write in **TypeScript**, **JavaScript**, **C#/C++**, **Dart**
+* I'm learning **Go**, **Rust**, **Python**
 * I work with **React**, **NestJS**, **Next.js**, **NodeJS**, **ASP.NET Core 8.0**, **Flutter**
 * I use **Tailwind CSS** and create layouts based on **Figma** designs
 * I use **Docker** and follow **CI/CD** practices in my work
@@ -47,6 +48,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-15803d?style=for-the-badge&logo=cshrp&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-166534?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-16a34a?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-16a34a?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <p align="center">
