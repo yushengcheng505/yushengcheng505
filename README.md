@@ -16,9 +16,10 @@
 
 ### 🌿 About Me
 
-* I write in **TypeScript**, **JavaScript**, **C#/C++**, **Dart**
-* I'm learning **Go**, **Rust**, **Python**
-* I work with **React**, **NestJS**, **Next.js**, **NodeJS**, **ASP.NET Core 8.0**, **Flutter**
+* I write in **TypeScript**, **JavaScript**
+* I'm learning **Go**, **Rust**
+* I can work with different programming languages and adapt if you need
+* I work with **React**, **NestJS**, **Next.js**, **NodeJS**
 * I use **Tailwind CSS** and create layouts based on **Figma** designs
 * I use **Docker** and follow **CI/CD** practices in my work
 * **PostgreSQL, MySQL, SQLite, Prisma** — preferred databases
